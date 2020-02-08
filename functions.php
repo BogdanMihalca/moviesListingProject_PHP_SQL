@@ -59,6 +59,10 @@ function yearComparison($a, $b)
 
     return $a->year - $b->year;
 }
+function storeRating(){
+    if(isset($_POST['myCheckbox'])){
 
+    }
+}
 
     ?>
